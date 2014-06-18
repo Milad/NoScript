@@ -5,6 +5,8 @@ NoScript is a CSS-enabled blocking layer that gives website visitors a nicely fo
 
 This is for websites that depends on Js so much that they don't offer lightweight versions that work without JS.
 
+Please disable your JavaScript in the browser and try the [demo](http://milad.github.io/NoScript/) here.
+
 Supported Browsers
 ==================
 
@@ -25,6 +27,6 @@ Is not supported right now.
 Participate
 ===========
 
-If you are a developer, please feel free to help supporting more browsers.
+If you are a developer, please feel free to help supporting & testing more browsers. Also, if you think you can make this better looking, then be my guest.
 
-Also, you can help testing! I tested the browsers I have. If you have older versions, please test them and update the minimum supported versions.
+I tested the browsers I have. If you have older versions, please test them and update the minimum supported versions.
