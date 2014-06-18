@@ -10,9 +10,9 @@ Please disable your JavaScript in the browser and try the [demo](http://milad.gi
 Supported Browsers
 ==================
 
-+ Google Chrome: 35.0.1916.153 m
-+ Opera: 22.0.1471.70
-+ Safari (Windows only): 5.1.7
+* Google Chrome: 35.0.1916.153 m
+* Opera: 22.0.1471.70
+* Safari (Windows only): 5.1.7
 
 Firefox
 =======
@@ -27,8 +27,8 @@ Is not supported right now.
 Usage
 =====
 
-+ Add <noscript></noscript> tag to the end of your document before </body>. Feel free to add whatever you want to say between the two tags.
-+ Link to the noscript.css file, or include it in your main css file.
+* Add &lt;noscript&gt;&lt;/noscript&gt; tag to the end of your document before &lt;/body&gt;. Feel free to add whatever you want to say between the two tags.
+* Link to the noscript.css file, or include it in your main css file.
 
 Participate
 ===========
