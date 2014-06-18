@@ -15,10 +15,11 @@ Supported Browsers
 Firefox
 =======
 
-As far as I'm aware of, JS can't be disabled in FF.
+Since Firefox 23 had been released, "Enable JavaScript" checkbox was removed from the options. Therefore, ordinary users can't disable JS in FF.
 
 Internet Explorer
 =================
+
 Is not supported right now.
 
 Participate
