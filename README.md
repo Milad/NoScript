@@ -3,9 +3,9 @@ NoScript
 
 NoScript is a CSS-enabled blocking layer that gives website visitors a nicely formatted message to tell them that they need to enable JavaScript in order to use the website properly.
 
-This is for websites that depends on Js so much that they don't offer lightweight versions that work without JS.
+This is for websites that depends on JS so heavily that they don't offer lightweight versions that work without JS.
 
-Please disable your JavaScript in the browser and try the [demo](http://milad.github.io/NoScript/) here.
+Please disable your JavaScript in the browser and try the demo [here](http://milad.github.io/NoScript/) .
 
 Supported Browsers
 ==================
