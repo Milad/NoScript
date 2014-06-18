@@ -24,6 +24,12 @@ Internet Explorer
 
 Is not supported right now.
 
+Usage
+=====
+
++ Add <noscript></noscript> tag to the end of your document before </body>. Feel free to add whatever you want to say between the two tags.
++ Link to the noscript.css file, or include it in your main css file.
+
 Participate
 ===========
 
