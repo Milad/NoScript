@@ -13,21 +13,17 @@ Supported Browsers
 * Google Chrome: 35.0.1916.153 m
 * Opera: 22.0.1471.70
 * Safari (Windows only): 5.1.7
+* Internet Expolorer 11
 
 Firefox
 =======
 
 Since Firefox 23 had been released, "Enable JavaScript" checkbox was removed from the options. Therefore, ordinary users can't disable JS in FF.
 
-Internet Explorer
-=================
-
-Is not supported right now.
-
 Usage
 =====
 
-* Add &lt;noscript&gt;&lt;/noscript&gt; tag to the end of your document before &lt;/body&gt;. Feel free to add whatever you want to say between the two tags.
+* Add &lt;noscript&gt;&lt;/noscript class=&quot;noscript&quot;&gt; tag to the end of your document before &lt;/body&gt;. Feel free to add whatever you want to say between the two tags.
 * Link to the noscript.css file, or include it in your main css file.
 
 Participate
