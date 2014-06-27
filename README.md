@@ -10,10 +10,11 @@ Please disable your JavaScript in the browser and try the demo [here](http://mil
 Supported Browsers
 ==================
 
-* Google Chrome: 35.0.1916.153 m
-* Opera: 22.0.1471.70
-* Safari (Windows only): 5.1.7
-* Internet Expolorer 11
+* Google Chrome: 35+
+* Google Chrome for Android
+* Safari for iOS
+* Opera: 22+
+* Internet Expolorer: 11
 
 Firefox
 =======
