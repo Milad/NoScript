@@ -23,7 +23,7 @@ Since Firefox 23 had been released, "Enable JavaScript" checkbox was removed fro
 Usage
 =====
 
-* Add &lt;noscript&gt;&lt;/noscript class=&quot;noscript&quot;&gt; tag to the end of your document before &lt;/body&gt;. Feel free to add whatever you want to say between the two tags.
+* Add &lt;noscript class=&quot;noscript&quot;&gt;&lt;/noscript&gt; tag to the end of your document before &lt;/body&gt;. Feel free to add whatever you want to say between the two tags.
 * Link to the noscript.css file, or include it in your main css file.
 
 Participate
