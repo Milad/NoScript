@@ -14,7 +14,7 @@ Supported Browsers
 * Google Chrome for Android
 * Safari for iOS
 * Opera: 22+
-* Internet Expolorer: 11
+* Internet Expolorer 11
 
 Firefox
 =======
